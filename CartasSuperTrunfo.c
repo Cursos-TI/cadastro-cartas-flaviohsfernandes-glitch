@@ -6,9 +6,9 @@
 
 int main() {
 
-  int pontos turisticos1;
-  int pontos turisticos2;
-  double populacao1, populacao2,
+  int Numero_de_pontos_turisticos1;
+  int Numero_de_pontos_turisticos2;
+  int populacao1, populacao2;
   float area1, area2, pib1, pib2;
   
 
