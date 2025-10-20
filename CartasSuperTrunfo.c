@@ -6,11 +6,17 @@
 
 int main() {
 
-  int populacao = 
-
+  int pontos turisticos1;
+  int pontos turisticos2;
+  double populacao1, populacao2,
+  float area1, area2, pib1, pib2;
+  
 
   printf("Desafio Cartas Super Trunfo!\n");
-  scanf("")
+
+  printf("Digite a populacao1: ");
+  scanf("%d", &populacao1);
+  printf("A populacao1 é: %d\n", populacao1);
   // Área para definição das variáveis para armazenar as propriedades das cidades
 
   // Área para entrada de dados
