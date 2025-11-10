@@ -132,6 +132,42 @@ int main() {
   scanf("%d", &Numero_de_pontos_turisticos);
   printf("O numero de pontos turisticos é: %d\n", Numero_de_pontos_turisticos);
   }
+
+   {
+  printf("Carta 4:\n");
+
+  printf("Estado: A\n");
+  printf("Digite o estado: ");
+  scanf("%s", &estado);
+  printf("O estado é: %s\n", estado);
+
+  printf("Codigo: A04\n");
+  }
+  {
+  printf("Digite o nome da cidade: ");
+  scanf("%s", &cidade);
+  printf("A cidade é: %s\n", cidade);
+  }
+  {
+  printf("Digite a quantidade da populacao: ");
+  scanf("%d", &populacao);
+  printf("A quantidade da populacao1 é: %d\n", populacao);
+  }
+  {
+  printf("Digite a Area: ");
+  scanf("%f", &area);
+  printf("A area é: %f\n", area);
+  }
+  {
+  printf("Digite o PIB: ");
+  scanf("%f", &pib);
+  printf("O valor do PIB é: %f\n", pib);
+  }
+  {
+  printf("Numero de pontos turisticos: ");
+  scanf("%d", &Numero_de_pontos_turisticos);
+  printf("O numero de pontos turisticos é: %d\n", Numero_de_pontos_turisticos);
+  }
   // Área para definição das variáveis para armazenar as propriedades das cidades
 
   // Área para entrada de dados
