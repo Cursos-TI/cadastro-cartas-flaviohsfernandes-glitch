@@ -10,10 +10,10 @@ int main() {
   int Numero_de_pontos_turisticos;
   int populacao;
   float area, pib;
-  char pais[1000];
+  char pais[20];
   char letra;
-  char cidade[1000];
-  char estado[1000];
+  char cidade[20];
+  char estado[20];
   
   
   
